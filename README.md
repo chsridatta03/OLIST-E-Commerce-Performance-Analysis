@@ -22,27 +22,35 @@ Customers Data
 <img width="492" height="350" alt="image" src="https://github.com/user-attachments/assets/742027db-bb75-43a0-9c45-beb9afbacb79" />
 
 Payments Data
+
 <img width="478" height="423" alt="image" src="https://github.com/user-attachments/assets/1305923d-1a6f-4ba4-8ed2-0b9ba947ebf8" />
 
 Products Data
+
 <img width="839" height="378" alt="image" src="https://github.com/user-attachments/assets/b07b16a3-2714-4cea-bb99-beaded1ad2f2" />
 
 Orders Data
+
 <img width="1470" height="283" alt="image" src="https://github.com/user-attachments/assets/5940e606-41a1-464c-aace-b79097e64725" />
 
 Order Items Data
+
 <img width="700" height="265" alt="image" src="https://github.com/user-attachments/assets/c0282f00-1707-433e-b81a-d6452762af0c" />
 
 Sellers Data
+
 <img width="384" height="263" alt="image" src="https://github.com/user-attachments/assets/1a9b3606-b516-456e-b164-4f763ba62c16" />
 
 Reviews Data
+
 <img width="775" height="343" alt="image" src="https://github.com/user-attachments/assets/b786b89e-e7c8-424f-a2d6-a549a27b51a9" />
 
 Geolocation Data
+
 <img width="500" height="255" alt="image" src="https://github.com/user-attachments/assets/96e4c573-d599-41c9-80cf-bd43f5d837c2" />
 
 Category Names Translation Data
+
 <img width="759" height="371" alt="image" src="https://github.com/user-attachments/assets/28b98168-d9f6-4fb2-88e4-299902405b87" />
 
 
