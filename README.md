@@ -59,6 +59,26 @@ SQL delivered the first layer of business insights:
 > ⁃ Delivery delays varied widely by region
 > ⁃ Revenue growth was steady but customer retention was extremely low
 
+<img width="342" height="530" alt="Screenshot 2025-11-25 105904" src="https://github.com/user-attachments/assets/6a46a69d-6dee-4e77-907b-4b57928a2b64" />
+
+<img width="879" height="386" alt="Screenshot 2025-11-25 105922" src="https://github.com/user-attachments/assets/90b17291-5012-47c1-b896-04f933b5891f" />
+
+<img width="1057" height="527" alt="Screenshot 2025-11-25 105940" src="https://github.com/user-attachments/assets/c9f59848-a0c6-4208-9e96-060594481a30" />
+
+<img width="1030" height="742" alt="Screenshot 2025-11-25 110010" src="https://github.com/user-attachments/assets/7b9ea149-906c-453c-a19a-23e39f301b6b" />
+
+<img width="522" height="207" alt="Screenshot 2025-11-25 110025" src="https://github.com/user-attachments/assets/0df1c907-5aaa-4818-b258-443617c047f1" />
+
+<img width="1131" height="792" alt="Screenshot 2025-11-25 110618" src="https://github.com/user-attachments/assets/d35aee8e-a1ad-429b-8cfd-486cb6cb1cd4" />
+
+<img width="763" height="766" alt="Screenshot 2025-11-25 110711" src="https://github.com/user-attachments/assets/f07cc9ca-3ddc-4ca7-9a77-9b3b0ea6b671" />
+
+<img width="1155" height="329" alt="Screenshot 2025-11-25 110742" src="https://github.com/user-attachments/assets/14013fd1-6a1e-40aa-b535-92193460ddbf" />
+
+<img width="1272" height="807" alt="Screenshot 2025-11-25 110849" src="https://github.com/user-attachments/assets/7812f258-a20e-485d-8d19-ce147dd93666" />
+
+<img width="1212" height="768" alt="Screenshot 2025-11-25 111226" src="https://github.com/user-attachments/assets/6e8726c9-925c-4f63-bb2d-c171d527e76a" />
+
 These outputs became the foundation for deeper statistical analysis in Python.
 
 ---
@@ -86,6 +106,31 @@ Regression and KDE density plots exposed behavioral drivers of revenue and satis
 * What frustrates customers the most? → delivery delay
 * What influences freight cost?* → product price
 * Who buys again?* → shockingly low repeat rate
+
+<img width="611" height="601" alt="Screenshot 2025-11-25 111838" src="https://github.com/user-attachments/assets/fd1c48b4-3909-4000-aaf3-7e5be92d3530" />
+
+<img width="348" height="746" alt="Screenshot 2025-11-25 111905" src="https://github.com/user-attachments/assets/9fac9f2c-c568-4f29-8a8d-d506d002cb70" />
+
+<img width="248" height="864" alt="Screenshot 2025-11-25 111921" src="https://github.com/user-attachments/assets/ee8729c3-c6e8-4587-9eaa-88205cd5c8ed" />
+
+<img width="412" height="609" alt="Screenshot 2025-11-25 112007" src="https://github.com/user-attachments/assets/65cb323e-e77c-4ae1-a62b-195b759a1883" />
+
+<img width="710" height="908" alt="Screenshot 2025-11-25 112049" src="https://github.com/user-attachments/assets/2214dae4-133a-4fe0-a93c-b2508cb6d07e" />
+
+<img width="636" height="680" alt="Screenshot 2025-11-25 112118" src="https://github.com/user-attachments/assets/49360b3e-6ea3-4ede-828c-6857d9b75d8e" />
+
+<img width="570" height="572" alt="Screenshot 2025-11-25 112203" src="https://github.com/user-attachments/assets/034f76e2-0a46-4814-abd8-60bd185da84e" />
+
+<img width="621" height="760" alt="Screenshot 2025-11-25 112218" src="https://github.com/user-attachments/assets/0ae57d89-af2d-4853-92f8-82cead9c0f42" />
+
+<img width="663" height="616" alt="Screenshot 2025-11-25 112230" src="https://github.com/user-attachments/assets/765f0581-585f-4327-bed3-12056e477457" />
+
+<img width="645" height="584" alt="Screenshot 2025-11-25 112241" src="https://github.com/user-attachments/assets/eabb0c17-4ea8-49d6-a914-2908398e2075" />
+
+<img width="770" height="860" alt="Screenshot 2025-11-25 112317" src="https://github.com/user-attachments/assets/8b531fb3-4817-40c8-a1ec-e70dcddb3b59" />
+
+
+
 
 Python uncovered the cause → effect mechanisms behind the KPIs.
 
