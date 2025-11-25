@@ -130,8 +130,6 @@ Regression and KDE density plots exposed behavioral drivers of revenue and satis
 <img width="770" height="860" alt="Screenshot 2025-11-25 112317" src="https://github.com/user-attachments/assets/8b531fb3-4817-40c8-a1ec-e70dcddb3b59" />
 
 
-
-
 Python uncovered the cause → effect mechanisms behind the KPIs.
 
 ---
@@ -140,9 +138,15 @@ Python uncovered the cause → effect mechanisms behind the KPIs.
 
 All curated and processed data was loaded into Power BI for interactive business monitoring.
 
+<img width="1217" height="578" alt="image" src="https://github.com/user-attachments/assets/aacc3f6e-1713-4026-bc9e-0a7e95496f62" />
+
+
 > The dashboard is split into two pages, each answering a different management question.
 
 ### 📌 Page 1 — Business Performance Dashboard
+
+<img width="1597" height="675" alt="Screenshot 2025-11-25 112748" src="https://github.com/user-attachments/assets/57b50cea-1333-42c9-bf1e-087cede271fc" />
+
 
 Focus: How is the business performing financially?
 Highlights:
@@ -155,6 +159,9 @@ Highlights:
 * State-wise revenue heat map
 
 ### 📌 Page 2 — Delivery & Customer Experience Dashboard
+
+<img width="1600" height="676" alt="Screenshot 2025-11-25 112814" src="https://github.com/user-attachments/assets/426ca066-0185-4d9d-a276-99f5b5ba144f" />
+
 
 Focus: How is delivery performance shaping customer sentiment?
 Highlights:
@@ -185,25 +192,5 @@ Highlights:
 | Data Science      | Python EDA uncovering behavioral drivers       |
 | BI                | Executive-ready 2-page dashboard               |
 
-This project replicates how a real data analyst / BI analyst solves an end-to-end business problem — not just visualizing data but transforming it into recommendations that impact revenue and customer satisfaction.
 
 ---
-
-## 📂 Repository Structure
-
-```
-📁 Excel — Raw source data
-📁 SQL — All cleaning + transformation + KPI queries
-📁 Python — Jupyter Notebook files for EDA
-📁 PowerBI — .pbix dashboard file
-📁 README.md — Project documentation
-```
-
----
-
-If you want, I can also generate:
-✔ A short LinkedIn post summarizing this project
-✔ A PDF case study to attach with your resume
-✔ A one-page portfolio website version
-
-Just ask. 🚀
