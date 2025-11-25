@@ -18,6 +18,7 @@ Excel acted as the data landing zone, where data structure and column consistenc
 `customers_data`, `orders_data`, `order_items_data`, `products_data`, `sellers_data`, `geolocation_data`, `payments_data`, `reviews_data`, `category_names_translation`
 
 Customers Data
+
 <img width="492" height="350" alt="image" src="https://github.com/user-attachments/assets/742027db-bb75-43a0-9c45-beb9afbacb79" />
 
 Payments Data
